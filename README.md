@@ -38,4 +38,14 @@ Great job! Make a commit and move onto Challenge 3.
 !<img width="603" alt="Screenshot 2024-03-31 at 5 56 43 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/e02ca741-459b-4061-9b04-0247dd19c2c0">
 # Done
 Great job! Make a commit and move onto Challenge 4.
+# Challenge 4
+1.	begin by defining an array of animals called “data”, each animal should have an id and a name
+!<img width="800" alt="Screenshot 2024-03-31 at 6 06 17 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/435b3946-3758-4511-8f76-b014da20d35d">
+2.	Define an app component
+3.	In the ul element begin my checking to make sure data isn’t empty, then use “.map” to return each element in “data”
+!<img width="1022" alt="Screenshot 2024-03-31 at 6 10 58 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/d4ccc66f-a94e-4845-b14d-f45457ad7356">
+4.	Export default app
+!<img width="1127" alt="Screenshot 2024-03-31 at 6 11 54 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/f6b69e54-4127-43d5-8815-eb19813706cf">
+# Done
+Great job! Make a commit and move onto Challenge 4.
 

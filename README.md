@@ -34,6 +34,7 @@ Great job! Make a commit and move onto Challenge 3.
 5.	Within the loading button element create a label that says 'Press me', set loading equal to is loading, and when the button is clicked set setIsLoading equal to the opposite of isLoading
 !<img width="951" alt="Screenshot 2024-03-31 at 5 57 20 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/25085311-0366-4fdf-a9f6-6e4991e69ecc">
 6.	Export default app
+
 !<img width="603" alt="Screenshot 2024-03-31 at 5 56 43 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/e02ca741-459b-4061-9b04-0247dd19c2c0">
 # Done
 Great job! Make a commit and move onto Challenge 4.

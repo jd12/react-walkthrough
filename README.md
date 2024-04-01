@@ -47,5 +47,17 @@ Great job! Make a commit and move onto Challenge 4.
 4.	Export default app
 !<img width="1127" alt="Screenshot 2024-03-31 at 6 11 54 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/f6b69e54-4127-43d5-8815-eb19813706cf">
 # Done
-Great job! Make a commit and move onto Challenge 4.
-
+Great job! Make a commit and move onto Challenge 5.
+# Challenge 5
+1.	Begin by importing useState from react
+2.	Define an app component 
+3.	Create 2 constants, value, and setValue and use useState to initialize the values to empty (‘’)
+!<img width="861" alt="Screenshot 2024-03-31 at 6 25 26 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/69e65f6d-797a-4d89-a7e0-1fb69722be56">
+4.	Create an event handler with the parameter “e”, within it pass in e.target.value to setValue and output e.target to the console
+!<img width="796" alt="Screenshot 2024-03-31 at 6 32 24 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/a3d23442-6ad6-46b3-808a-7298a63c9b2a">
+5.	Within the input element set value equal to {value}, set placeholder equal to “Enter some text”, and if there is a change call eventHandler
+!<img width="973" alt="Screenshot 2024-03-31 at 6 42 19 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/f88831e2-a012-4fc5-9859-d5c2bed75551">
+6.	Export default app
+<img width="295" alt="Screenshot 2024-03-31 at 6 44 10 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/7da1bf17-4ed1-46e4-ae99-9e43c9b5fe1c">
+# Done
+Great job! Make a commit and move onto Challenge 6.

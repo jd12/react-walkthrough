@@ -58,6 +58,7 @@ Great job! Make a commit and move onto Challenge 5.
 5.	Within the input element set value equal to {value}, set placeholder equal to “Enter some text”, and if there is a change call eventHandler
 !<img width="973" alt="Screenshot 2024-03-31 at 6 42 19 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/f88831e2-a012-4fc5-9859-d5c2bed75551">
 6.	Export default app
-<img width="295" alt="Screenshot 2024-03-31 at 6 44 10 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/7da1bf17-4ed1-46e4-ae99-9e43c9b5fe1c">
+!<img width="295" alt="Screenshot 2024-03-31 at 6 44 10 PM" src="https://github.com/jd12/react-walkthrough/assets/112718644/7da1bf17-4ed1-46e4-ae99-9e43c9b5fe1c">
+
 # Done
 Great job! Make a commit and move onto Challenge 6.
